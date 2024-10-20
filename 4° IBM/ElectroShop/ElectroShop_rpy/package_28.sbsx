@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 8e379155-3c45-41ac-8000-dfe2e9233baa</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">package_28</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::20:41:33</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Modelo_DISENO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
+					<_hname type="a">DCLASSDISE%D1O_CU_Rese%F1a-GenerarRese%F1a</_hname>
+					<_hid type="a">GUID 0ea23317-4391-4a0a-864e-cded3147f278</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">3.1.2021::20:41:33</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<weakCGTime type="a">3.1.2021::20:41:33</weakCGTime>
+			<strongCGTime type="a">3.1.2021::20:37:50</strongCGTime>
+			<_defaultComposite type="s">GUID b843fa8e-b750-41d3-99e9-94f4caa0e10d</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID d79e7ac2-ca7f-4b06-9f11-a240f2304952</value>
+				<value>GUID e4c3745a-7c8e-4cdd-830e-645ba245520f</value>
+				<value>GUID 83fc787d-a2b8-4fb7-a53b-f22661806900</value>
+				<value>GUID b843fa8e-b750-41d3-99e9-94f4caa0e10d</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID d79e7ac2-ca7f-4b06-9f11-a240f2304952</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">package_29</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::20:36:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::20:36:32</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\package_29.sbsx</_hfilename>
+					<_hname type="a">package_29</_hname>
+					<_hid type="a">GUID bd30f091-f90a-4e91-b506-d1fa6191f2b8</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 8e379155-3c45-41ac-8000-dfe2e9233baa</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID e4c3745a-7c8e-4cdd-830e-645ba245520f</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">package_30</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::20:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::20:37:41</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\package_30.sbsx</_hfilename>
+					<_hname type="a">package_30</_hname>
+					<_hid type="a">GUID 977e98c4-0d1b-4699-8c59-4f775d71b9c3</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 8e379155-3c45-41ac-8000-dfe2e9233baa</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 83fc787d-a2b8-4fb7-a53b-f22661806900</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">package_31</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::20:37:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::20:37:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\package_31.sbsx</_hfilename>
+					<_hname type="a">package_31</_hname>
+					<_hid type="a">GUID 3879630f-f777-4dae-aac8-db8cc2fd80c3</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 8e379155-3c45-41ac-8000-dfe2e9233baa</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID b843fa8e-b750-41d3-99e9-94f4caa0e10d</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

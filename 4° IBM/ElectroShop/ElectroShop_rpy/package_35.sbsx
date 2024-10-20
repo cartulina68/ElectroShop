@@ -9,9 +9,9 @@
 	<RHAPSODY-MODEL>
 	<ISubsystem type="e">
 			<_id type="a">GUID 12b675e4-58f4-461e-9e93-692a7b2c1e93</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">AgregarCategoria_Servicio</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::20:27:41</_modifiedTimeWeak>
+			<_myState type="a">10240</_myState>
+			<_name type="a">package_35</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::20:36:53</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -21,10 +21,10 @@
 					<_hid type="a">GUID f318481e-6f3b-4b5a-8714-c36607384594</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::20:27:41</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::20:36:53</_modifiedTime>
 			<_lastID type="a">4</_lastID>
-			<weakCGTime type="a">3.1.2021::23:26:5</weakCGTime>
-			<strongCGTime type="a">3.1.2021::23:26:17</strongCGTime>
+			<weakCGTime type="a">3.1.2021::20:36:53</weakCGTime>
+			<strongCGTime type="a">3.1.2021::20:36:53</strongCGTime>
 			<_defaultComposite type="s">GUID 5a494e6f-1e50-4331-8d5b-257ac2df97ae</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
@@ -39,15 +39,15 @@
 		<IDependency type="e">
 			<_id type="a">GUID 7f93c186-f479-4285-b8f8-5d30406f6564</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">BD_Conexion</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::23:18:40</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::23:18:40</_modifiedTime>
+			<_name type="a">package_41</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::20:36:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::20:36:46</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\BD_Conexion.sbsx</_hfilename>
+					<_hfilename type="a">.\package_41.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
-					<_hname type="a">BD_Conexion</_hname>
+					<_hname type="a">package_41</_hname>
 					<_hid type="a">GUID fdb2b670-95bf-4dcc-9d95-93d7ce141e1b</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -61,15 +61,15 @@
 		<IDependency type="e">
 			<_id type="a">GUID 7e47857d-64d6-4583-beda-4c173b16438c</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ArrayList</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::23:20:37</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::23:20:37</_modifiedTime>
+			<_name type="a">package_43</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::20:36:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::20:36:53</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\ArrayList.sbsx</_hfilename>
+					<_hfilename type="a">.\package_43.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
-					<_hname type="a">ArrayList</_hname>
+					<_hname type="a">package_43</_hname>
 					<_hid type="a">GUID 7ed5fb53-bc4e-422a-9ea3-504edb7d02ee</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -83,15 +83,15 @@
 		<IDependency type="e">
 			<_id type="a">GUID 58b4f927-4195-4fab-97c2-fb613f03552d</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">AgregarCategoria_Interface</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::23:26:5</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::23:26:5</_modifiedTime>
+			<_name type="a">package_37</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::20:35:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::20:35:58</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\AgregarCategoria_Interface.sbsx</_hfilename>
+					<_hfilename type="a">.\package_37.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
-					<_hname type="a">AgregarCategoria_Interface</_hname>
+					<_hname type="a">package_37</_hname>
 					<_hid type="a">GUID 14b45b66-6028-4b05-a17c-6a28bc4855d1</_hid>
 				</INObjectHandle>
 			</_dependsOn>
