@@ -11,7 +11,7 @@
 			<_id type="a">GUID 83d1d78d-dfcf-423c-96b4-bb852df8329b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::21:51:24</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::2:25:28</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -21,7 +21,7 @@
 			</_theMainDiagram>
 			<_modifiedTime type="a">3.1.2021::21:51:24</_modifiedTime>
 			<_lastID type="a">33</_lastID>
-			<weakCGTime type="a">3.1.2021::23:10:31</weakCGTime>
+			<weakCGTime type="a">3.2.2021::2:25:28</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:10:31</strongCGTime>
 			<_defaultComposite type="s">GUID d50da9ea-515b-4dc2-b614-3624ac8e9973</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -8182,7 +8182,7 @@
 			<_id type="a">GUID 10786dfe-bd6e-43d1-9de1-9a007c3bd359</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Cliente</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::20:52:8</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::2:25:28</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -8192,8 +8192,8 @@
 					<_hid type="a">GUID fec09614-a78a-4a21-bfaf-a9e397c1af46</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::20:52:8</_modifiedTime>
-			<weakCGTime type="a">3.1.2021::21:25:1</weakCGTime>
+			<_modifiedTime type="a">3.2.2021::2:25:28</_modifiedTime>
+			<weakCGTime type="a">3.2.2021::2:25:28</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:10:31</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -8213,6 +8213,12 @@
 				<value>GUID 0bbb25ce-cb0b-4192-b1aa-917aaab58033</value>
 				<value>GUID 8614ee4f-07d0-4733-a746-bac1773ce08e</value>
 				<value>GUID 5584d9bf-5589-488f-9838-a1c095e5d76f</value>
+				<value>GUID d3157e6f-1c11-4f4f-bdf4-86b3ef129959</value>
+				<value>GUID 6ff72314-d80c-4345-be66-20354f782d2b</value>
+				<value>GUID d7d5bb90-9682-42c8-abe6-ad3219907a6f</value>
+				<value>GUID bc444a7b-c778-4081-98c2-3fb178926b01</value>
+				<value>GUID cf38df0a-5c02-4753-bbfc-ffe68bd8ecd6</value>
+				<value>GUID 1e8c6bd9-b135-4ff7-a64b-48bc8ce1a328</value>
 			</AggregatesList>
 		</IActor>
 		<IGeneralization type="e">
@@ -8492,11 +8498,147 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d3157e6f-1c11-4f4f-bdf4-86b3ef129959</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsProducDeta_jsxadm</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:8:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:8:26</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">ProducDeta_jsxadm</_hname>
+					<_hid type="a">GUID 53b74872-a316-4490-9905-8b6566aab909</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6ff72314-d80c-4345-be66-20354f782d2b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_jsxAdmin</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:8:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:8:31</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_DISENO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
+					<_hname type="a">MenuPrincipal_jsxAdmin</_hname>
+					<_hid type="a">GUID d812e35c-7a8d-40e8-b18a-4d7889e85beb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d7d5bb90-9682-42c8-abe6-ad3219907a6f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_jsxAdmin_1</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:20:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:20:20</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_DISENO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
+					<_hname type="a">MenuPrincipal_jsxAdmin</_hname>
+					<_hid type="a">GUID d812e35c-7a8d-40e8-b18a-4d7889e85beb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID bc444a7b-c778-4081-98c2-3fb178926b01</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_jsxAdmin_2</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:23:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:23:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_DISENO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
+					<_hname type="a">MenuPrincipal_jsxAdmin</_hname>
+					<_hid type="a">GUID d812e35c-7a8d-40e8-b18a-4d7889e85beb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID cf38df0a-5c02-4753-bbfc-ffe68bd8ecd6</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCarrito_jsxCliente</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:24:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:24:24</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_DISENO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
+					<_hname type="a">Carrito_jsxCliente</_hname>
+					<_hid type="a">GUID 177d2dcc-2ce2-434e-b726-cea426ead275</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1e8c6bd9-b135-4ff7-a64b-48bc8ce1a328</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsProducDeta_jsxadm_1</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:25:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:25:28</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">ProducDeta_jsxadm</_hname>
+					<_hid type="a">GUID 53b74872-a316-4490-9905-8b6566aab909</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID 23025634-0f7a-4caa-8e24-cc3469d9099d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Usuario</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::21:37:31</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::2:17:45</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -8506,7 +8648,7 @@
 					<_hid type="a">GUID bb540392-123d-4ced-bbe9-8e03b1b3c8d0</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::21:37:31</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::2:17:45</_modifiedTime>
 			<weakCGTime type="a">3.2.2021::3:43:39</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:10:31</strongCGTime>
 			<_itsStateChart type="r">
@@ -8520,6 +8662,8 @@
 				<value>GUID 559e0979-dcde-489e-b508-cb8fc6c82662</value>
 				<value>GUID 2a46f3e9-7309-463b-b813-ab5d443869e6</value>
 				<value>GUID 3b12ed65-5ccc-4ece-94c8-82f641ec04e2</value>
+				<value>GUID 00a00e78-1424-4fab-87ad-ae458513b49a</value>
+				<value>GUID a606a736-6834-4412-a79a-1e5ef7ec7fbc</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -8654,11 +8798,56 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 00a00e78-1424-4fab-87ad-ae458513b49a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_jsxAdmin</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:15:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:15:53</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_DISENO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
+					<_hname type="a">MenuPrincipal_jsxAdmin</_hname>
+					<_hid type="a">GUID d812e35c-7a8d-40e8-b18a-4d7889e85beb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID a606a736-6834-4412-a79a-1e5ef7ec7fbc</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMyOrden_form</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:17:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:17:45</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">MyOrden_form</_hname>
+					<_hid type="a">GUID 0d0b91b1-d1ad-4bd9-af5f-8ae1db3d9007</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID 051b0505-e725-4d79-8512-d4332a6fe76c</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Administrador</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::21:9:4</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::2:18:56</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -8668,8 +8857,8 @@
 					<_hid type="a">GUID f318481e-6f3b-4b5a-8714-c36607384594</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::21:9:4</_modifiedTime>
-			<weakCGTime type="a">3.1.2021::21:9:4</weakCGTime>
+			<_modifiedTime type="a">3.2.2021::2:18:56</_modifiedTime>
+			<weakCGTime type="a">3.2.2021::2:18:56</weakCGTime>
 			<strongCGTime type="a">3.1.2021::22:47:49</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -8701,6 +8890,11 @@
 				<value>GUID 0fbb009f-afbe-4750-a5e7-6538557f84f5</value>
 				<value>GUID 9cfbf2e1-8dd6-4607-9863-75bea6d44e5e</value>
 				<value>GUID 48a6fb1f-bdc7-4d68-bde6-8d5e924b5ba9</value>
+				<value>GUID 572a9b60-be15-4fcb-affb-bf4ab0ddfc43</value>
+				<value>GUID c83387c5-fa7b-429a-b391-dc0342b823ec</value>
+				<value>GUID 694ac047-31ea-4cf7-88af-3f71cda7a1fb</value>
+				<value>GUID 70fd51b7-dc68-43bc-aa44-889acc89080c</value>
+				<value>GUID 0e6c3b9c-2f1a-469a-9038-d490802cc195</value>
 			</AggregatesList>
 		</IActor>
 		<IGeneralization type="e">
@@ -9257,6 +9451,119 @@
 					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
 					<_hname type="a">Analisis_jsx</_hname>
 					<_hid type="a">GUID a72e45b5-4755-4649-9288-eae169ef7fd9</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 572a9b60-be15-4fcb-affb-bf4ab0ddfc43</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrin_jsxadm</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:9:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:9:39</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">MenuPrin_jsxadm</_hname>
+					<_hid type="a">GUID 907ad9b7-c870-4d1e-b283-168ae4e7d383</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID c83387c5-fa7b-429a-b391-dc0342b823ec</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_jsxAdmin_2</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:10:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:10:6</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_DISENO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
+					<_hname type="a">MenuPrincipal_jsxAdmin</_hname>
+					<_hid type="a">GUID d812e35c-7a8d-40e8-b18a-4d7889e85beb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 694ac047-31ea-4cf7-88af-3f71cda7a1fb</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsProduc_form</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:12:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:12:14</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">Produc_form</_hname>
+					<_hid type="a">GUID 3e22bd2d-4aa5-4c8d-9366-51428a9e5b50</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 70fd51b7-dc68-43bc-aa44-889acc89080c</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_jsxAdmin_3</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:14:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:14:56</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_DISENO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
+					<_hname type="a">MenuPrincipal_jsxAdmin</_hname>
+					<_hid type="a">GUID d812e35c-7a8d-40e8-b18a-4d7889e85beb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 0e6c3b9c-2f1a-469a-9038-d490802cc195</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_jsxAdmin_4</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::2:18:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:18:56</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_DISENO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
+					<_hname type="a">MenuPrincipal_jsxAdmin</_hname>
+					<_hid type="a">GUID d812e35c-7a8d-40e8-b18a-4d7889e85beb</_hid>
 				</IClassifierHandle>
 			</_otherClass>
 			<_inverse type="r">
