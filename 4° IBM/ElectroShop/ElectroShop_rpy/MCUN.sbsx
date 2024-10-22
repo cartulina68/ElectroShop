@@ -17,7 +17,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessUseCaseModel</_hname>
 							<_hid type="a">GUID fa66a543-8311-428e-809e-b18f8f5609a1</_hid>
@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.1.2021::12:43:34</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::14:5:55</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -33,8 +33,8 @@
 					<_hid type="a">GUID 8d49f8a3-ae3b-48ed-ad40-aac2e4f665ef</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::12:43:34</_modifiedTime>
-			<_lastID type="a">31</_lastID>
+			<_modifiedTime type="a">3.1.2021::14:29:35</_modifiedTime>
+			<_lastID type="a">32</_lastID>
 			<weakCGTime type="a">3.1.2021::23:11:12</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:11:12</strongCGTime>
 			<_defaultComposite type="s">GUID 8f295173-1d2e-4a59-a712-aba8ce4d0dcb</_defaultComposite>
@@ -62,7 +62,6 @@
 				<value>GUID d48a12fc-8991-472e-8e98-a3f6c61920e4</value>
 				<value>GUID 7769efbb-a5ce-406b-86a1-b6bdcebfb71c</value>
 				<value>GUID cc169622-4857-43d5-bfb2-8f6739621409</value>
-				<value>GUID e4bf1cdf-4ee3-4e74-88a1-f6c2997de7dc</value>
 				<value>GUID 9ea8a441-b6d7-4a2e-bfbc-c3839de928cb</value>
 				<value>GUID a8823619-69d9-4d52-a1d7-bac39a4516ee</value>
 				<value>GUID 823cfdb5-95b4-4f69-9756-9499051d0c6a</value>
@@ -70,6 +69,7 @@
 				<value>GUID e4385100-84aa-4e32-82e5-091b17b57b60</value>
 				<value>GUID c029677c-920d-4899-a67f-559cf9bcb143</value>
 				<value>GUID ce782eba-e6df-45d9-8ab1-d3687e09773d</value>
+				<value>GUID ee41b317-06cd-4ae1-b880-fbb181a43897</value>
 			</AggregatesList>
 		</ISubsystem>
 		<IUCDiagram type="e">
@@ -304,8 +304,8 @@
 			</_properties>
 			<_name type="a">Diagrama Gral MCUN</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::12:43:54</_modifiedTime>
-			<_lastModifiedTime type="a">3.1.2021::12:43:54</_lastModifiedTime>
+			<_modifiedTime type="a">3.1.2021::13:50:57</_modifiedTime>
+			<_lastModifiedTime type="a">3.1.2021::13:50:57</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -348,7 +348,7 @@
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<elementList type="a">16</elementList>
+			<elementList type="a">18</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -377,6 +377,8 @@
 				<value>GUID 30062215-f889-4b89-a831-a850bfeae629</value>
 				<value>GUID 8f159eb5-a1cf-4d96-9de7-042e170e5c8d</value>
 				<value>GUID 30dfc6e4-05cd-458e-9f13-e8dc6382c386</value>
+				<value>GUID f616a607-ac28-4abc-9782-f10732fcf30a</value>
+				<value>GUID 0d89d213-043f-44a6-9582-4c985eae2787</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -466,7 +468,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0489381 0 0 0.124343 600.387 344.665 </m_transform>
+			<m_transform type="a">0.0489381 0 0 0.124343 567.387 318.665 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -522,7 +524,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 794.248 315.061 </m_transform>
+			<m_transform type="a">0.124004 0 0 0.0606909 761.248 254.061 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1150,7 +1152,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 975.248 401.061 </m_transform>
+			<m_transform type="a">0.124004 0 0 0.0606909 761.248 419.061 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1776,6 +1778,233 @@
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_points type="a">4 959 286  1106 286  1106 320  959 320  </m_points>
 		</CGIFreeText>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID f616a607-ac28-4abc-9782-f10732fcf30a</_id>
+			<m_type type="a">124</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID ee41b317-06cd-4ae1-b880-fbb181a43897</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 5f596360-27d8-44ed-8e84-744ebd57e343</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Entidad Bancaria</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0489381 0 0 0.124343 1088.39 154.665 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_pImageViewData type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">OMGEElement</_hm2Class>
+					<_hid type="a">GUID 710076f4-2c51-40f1-ae14-3efcd663b73e</_hid>
+				</IHandle>
+			</m_pImageViewData>
+			<m_polygon type="a">4 176 252  176 1394  1259 1394  1259 252  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIAssociationEnd type="e">
+			<_id type="a">GUID 0d89d213-043f-44a6-9582-4c985eae2787</_id>
+			<m_type type="a">94</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID d153d292-fb82-4955-95b4-cefff07d1358</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID f616a607-ac28-4abc-9782-f10732fcf30a</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID a951d35e-c6e1-414a-b422-3224ac7c936b</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">176 871 </m_SourcePort>
+			<m_TargetPort type="a">1127 378 </m_TargetPort>
+			<m_pInverseModelObject type="r">
+				<IAssociationEndHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID d63245ab-49be-46c2-b634-a2bfb163737b</_hid>
+				</IAssociationEndHandle>
+			</m_pInverseModelObject>
+			<m_pInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInstance>
+			<m_pInverseInstance type="r">
+				<IObjectLinkHandle type="e">
+				</IObjectLinkHandle>
+			</m_pInverseInstance>
+			<m_bShowSourceMultiplicity type="a">0</m_bShowSourceMultiplicity>
+			<m_bShowSourceRole type="a">0</m_bShowSourceRole>
+			<m_bShowTargetMultiplicity type="a">0</m_bShowTargetMultiplicity>
+			<m_bShowTargetRole type="a">0</m_bShowTargetRole>
+			<m_bShowLinkName type="a">1</m_bShowLinkName>
+			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
+			<m_bInstance type="a">0</m_bInstance>
+			<m_bShowQualifier1 type="a">0</m_bShowQualifier1>
+			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
+			<m_sourceRole type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">2</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+				</CGIText>
+			</m_sourceRole>
+			<m_targetRole type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">3</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+				</CGIText>
+			</m_targetRole>
+			<m_sourceMultiplicity type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">4</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+				</CGIText>
+			</m_sourceMultiplicity>
+			<m_targetMultiplicity type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">5</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+				</CGIText>
+			</m_targetMultiplicity>
+			<m_sourceQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">6</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_sourceQualifier>
+			<m_targetQualifier type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">7</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_targetQualifier>
+			<m_specificType type="a">symmetric_type</m_specificType>
+		</CGIAssociationEnd>
 		<IDiagram type="e">
 			<_id type="a">GUID fc784f69-64f4-40b5-90d5-edff3b308233</_id>
 			<_myState type="a">8192</_myState>
@@ -6130,7 +6359,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6165,7 +6394,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6248,7 +6477,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6283,7 +6512,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6343,7 +6572,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6406,7 +6635,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6486,7 +6715,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6546,7 +6775,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6606,7 +6835,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6666,7 +6895,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6726,7 +6955,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6734,47 +6963,27 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.1.2021::23:41:10</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::14:5:55</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID fc784f69-64f4-40b5-90d5-edff3b308233</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::23:41:10</_modifiedTime>
-			<weakCGTime type="a">3.1.2021::23:41:10</weakCGTime>
+			<_modifiedTime type="a">3.1.2021::14:5:55</_modifiedTime>
+			<weakCGTime type="a">3.1.2021::14:5:55</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:39:55</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
 			</_itsStateChart>
+			<Associations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Associations>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<AggregatesList type="e">
-				<value>GUID 9101700b-562f-452c-b21e-27daddd67236</value>
-			</AggregatesList>
 		</IClass>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID 9101700b-562f-452c-b21e-27daddd67236</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsCUN_05 Atencion al cliente</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::23:41:15</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID e4bf1cdf-4ee3-4e74-88a1-f6c2997de7dc</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 9112d673-deab-44b7-8f93-885608d0f53e</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">NonNavigable</_navigability>
-		</IAssociationEnd>
 		<IClass type="e">
 			<_id type="a">GUID 0990e62a-54b3-4e95-98de-c2470f34ec7e</_id>
 			<_myState type="a">10240</_myState>
@@ -6786,7 +6995,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6846,7 +7055,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -6905,7 +7114,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessUseCase</_hname>
 							<_hid type="a">GUID 94d17f20-58aa-417d-8af2-bd20860d0a77</_hid>
@@ -6914,7 +7123,7 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::23:45:32</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::13:50:6</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -6933,6 +7142,7 @@
 				<value>GUID ab2584d0-c540-49af-8caf-03b27b14082c</value>
 				<value>GUID 8b2aa9d4-32b7-4074-9d0c-fdacc58e1feb</value>
 				<value>GUID 09dc74aa-1249-4c8c-87db-12aed1ed158d</value>
+				<value>GUID d63245ab-49be-46c2-b634-a2bfb163737b</value>
 			</AggregatesList>
 		</IUseCase>
 		<IAssociationEnd type="e">
@@ -7039,6 +7249,28 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d63245ab-49be-46c2-b634-a2bfb163737b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEntidad Bancaria</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::13:50:39</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID ee41b317-06cd-4ae1-b880-fbb181a43897</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID d153d292-fb82-4955-95b4-cefff07d1358</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IUseCase type="e">
 			<_id type="a">GUID d48a12fc-8991-472e-8e98-a3f6c61920e4</_id>
 			<_myState type="a">8192</_myState>
@@ -7049,7 +7281,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessUseCase</_hname>
 							<_hid type="a">GUID 94d17f20-58aa-417d-8af2-bd20860d0a77</_hid>
@@ -7245,7 +7477,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessUseCase</_hname>
 							<_hid type="a">GUID 94d17f20-58aa-417d-8af2-bd20860d0a77</_hid>
@@ -7395,7 +7627,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessUseCase</_hname>
 							<_hid type="a">GUID 94d17f20-58aa-417d-8af2-bd20860d0a77</_hid>
@@ -7490,87 +7722,6 @@
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
 		<IUseCase type="e">
-			<_id type="a">GUID e4bf1cdf-4ee3-4e74-88a1-f6c2997de7dc</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">CUN_05 Atencion al cliente</_name>
-			<Stereotypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">1</size>
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
-							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
-							<_hname type="a">BusinessUseCase</_hname>
-							<_hid type="a">GUID 94d17f20-58aa-417d-8af2-bd20860d0a77</_hid>
-						</IHandle>
-					
-				</IRPYRawContainer>
-			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::17:47:25</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
-			<_itsStateChart type="r">
-				<IHandle type="e">
-				</IHandle>
-			</_itsStateChart>
-			<_classModifier type="a">Unspecified</_classModifier>
-			<_EntryPoints type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</_EntryPoints>
-			<AggregatesList type="e">
-				<value>GUID 9112d673-deab-44b7-8f93-885608d0f53e</value>
-				<value>GUID e8e51367-8b80-413a-9a13-ef54df8c0a31</value>
-			</AggregatesList>
-		</IUseCase>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID 9112d673-deab-44b7-8f93-885608d0f53e</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsClass_26</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::23:41:15</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID ed30168f-3a15-4aa6-b2a7-88c92ad919f7</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 9101700b-562f-452c-b21e-27daddd67236</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID e8e51367-8b80-413a-9a13-ef54df8c0a31</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsCliente</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::17:46:39</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IActor</_hm2Class>
-					<_hid type="a">GUID a8823619-69d9-4d52-a1d7-bac39a4516ee</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID fd8697f5-818e-49b3-951e-3b1ff5fd3968</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">NonNavigable</_navigability>
-		</IAssociationEnd>
-		<IUseCase type="e">
 			<_id type="a">GUID 9ea8a441-b6d7-4a2e-bfbc-c3839de928cb</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CUN_05 Analisis de ventas y reportes</_name>
@@ -7580,7 +7731,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessUseCase</_hname>
 							<_hid type="a">GUID 94d17f20-58aa-417d-8af2-bd20860d0a77</_hid>
@@ -7707,7 +7858,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessActor</_hname>
 							<_hid type="a">GUID 18637f3a-fddb-4ef2-bafa-205ae7d1c2fd</_hid>
@@ -7715,9 +7866,9 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.1.2021::16:4:48</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::16:4:48</_modifiedTime>
-			<weakCGTime type="a">3.1.2021::16:4:48</weakCGTime>
+			<_modifiedTimeWeak type="a">3.1.2021::14:5:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::14:5:55</_modifiedTime>
+			<weakCGTime type="a">3.1.2021::14:5:55</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:11:12</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -7726,7 +7877,6 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID d7a56506-2f1c-4b29-be5c-4095ea178469</value>
-				<value>GUID fd8697f5-818e-49b3-951e-3b1ff5fd3968</value>
 				<value>GUID 3468861f-2fee-4688-ab02-c8599a9a06d6</value>
 				<value>GUID 37896f06-e737-4614-9511-429755b539ed</value>
 			</AggregatesList>
@@ -7748,28 +7898,6 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hid type="a">GUID 2316f8e7-2987-48f5-b338-1afeeda7a445</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID fd8697f5-818e-49b3-951e-3b1ff5fd3968</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsCUN_05 Atencion al cliente</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::17:46:39</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID e4bf1cdf-4ee3-4e74-88a1-f6c2997de7dc</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID e8e51367-8b80-413a-9a13-ef54df8c0a31</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
@@ -7829,7 +7957,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessActor</_hname>
 							<_hid type="a">GUID 18637f3a-fddb-4ef2-bafa-205ae7d1c2fd</_hid>
@@ -7952,7 +8080,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessActor</_hname>
 							<_hid type="a">GUID 18637f3a-fddb-4ef2-bafa-205ae7d1c2fd</_hid>
@@ -8005,7 +8133,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessActor</_hname>
 							<_hid type="a">GUID 18637f3a-fddb-4ef2-bafa-205ae7d1c2fd</_hid>
@@ -8058,7 +8186,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessActor</_hname>
 							<_hid type="a">GUID 18637f3a-fddb-4ef2-bafa-205ae7d1c2fd</_hid>
@@ -8086,7 +8214,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessActor</_hname>
 							<_hid type="a">GUID 18637f3a-fddb-4ef2-bafa-205ae7d1c2fd</_hid>
@@ -8124,6 +8252,59 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hid type="a">GUID 9da99c6c-069e-4309-b65d-7d010ad0c100</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">NonNavigable</_navigability>
+		</IAssociationEnd>
+		<IActor type="e">
+			<_id type="a">GUID ee41b317-06cd-4ae1-b880-fbb181a43897</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Entidad Bancaria</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessActor</_hname>
+							<_hid type="a">GUID 18637f3a-fddb-4ef2-bafa-205ae7d1c2fd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.1.2021::13:50:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::13:50:57</_modifiedTime>
+			<weakCGTime type="a">3.1.2021::13:50:57</weakCGTime>
+			<strongCGTime type="a">3.1.2021::13:50:57</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID d153d292-fb82-4955-95b4-cefff07d1358</value>
+			</AggregatesList>
+		</IActor>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d153d292-fb82-4955-95b4-cefff07d1358</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCUN_01 Compra de articulos</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::13:50:39</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID dda67a25-16e9-44a0-9f26-8fde323d1db5</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID d63245ab-49be-46c2-b634-a2bfb163737b</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>

@@ -11,7 +11,7 @@
 			<_id type="a">GUID 83d1d78d-dfcf-423c-96b4-bb852df8329b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::2:25:28</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::0:31:7</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -19,9 +19,9 @@
 					<_hid type="a">GUID 8d49f8a3-ae3b-48ed-ad40-aac2e4f665ef</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::21:51:24</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::0:31:18</_modifiedTime>
 			<_lastID type="a">33</_lastID>
-			<weakCGTime type="a">3.2.2021::2:25:28</weakCGTime>
+			<weakCGTime type="a">3.2.2021::0:31:7</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:10:31</strongCGTime>
 			<_defaultComposite type="s">GUID d50da9ea-515b-4dc2-b614-3624ac8e9973</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -321,8 +321,8 @@
 			</_properties>
 			<_name type="a">Diagrama Gral MCU</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::21:51:25</_modifiedTime>
-			<_lastModifiedTime type="a">3.1.2021::21:51:25</_lastModifiedTime>
+			<_modifiedTime type="a">3.2.2021::0:31:31</_modifiedTime>
+			<_lastModifiedTime type="a">3.2.2021::0:31:31</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -8182,7 +8182,7 @@
 			<_id type="a">GUID 10786dfe-bd6e-43d1-9de1-9a007c3bd359</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Cliente</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::2:25:28</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::0:10:24</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -8192,7 +8192,7 @@
 					<_hid type="a">GUID fec09614-a78a-4a21-bfaf-a9e397c1af46</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.2.2021::2:25:28</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::0:10:24</_modifiedTime>
 			<weakCGTime type="a">3.2.2021::2:25:28</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:10:31</strongCGTime>
 			<_itsStateChart type="r">
@@ -8219,6 +8219,7 @@
 				<value>GUID bc444a7b-c778-4081-98c2-3fb178926b01</value>
 				<value>GUID cf38df0a-5c02-4753-bbfc-ffe68bd8ecd6</value>
 				<value>GUID 1e8c6bd9-b135-4ff7-a64b-48bc8ce1a328</value>
+				<value>GUID 198b8da7-5806-4449-a681-daa5c694e338</value>
 			</AggregatesList>
 		</IActor>
 		<IGeneralization type="e">
@@ -8634,11 +8635,34 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 198b8da7-5806-4449-a681-daa5c694e338</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsProductoDeta_jsxCliente</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::0:10:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::0:10:24</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Modelo_DISENO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_DISENO</_hsubsystem>
+					<_hname type="a">productoDeta_jsxCliente</_hname>
+					<_hid type="a">GUID 86766aaa-c253-46cd-93d2-1113e37bdc34</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID 23025634-0f7a-4caa-8e24-cc3469d9099d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Usuario</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::2:17:45</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::3:43:39</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
