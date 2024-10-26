@@ -11,7 +11,7 @@
 			<_id type="a">GUID 3772bcb2-60b4-4761-a1ad-9122eece7764</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SEGURIDAD</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::15:30:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::1:8:33</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -21,9 +21,9 @@
 					<_hid type="a">GUID c2938b10-e05c-48b2-b278-e40646b6d047</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::15:30:0</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:8:33</_modifiedTime>
 			<_lastID type="a">3</_lastID>
-			<weakCGTime type="a">3.1.2021::15:30:0</weakCGTime>
+			<weakCGTime type="a">3.2.2021::1:8:33</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:17:32</strongCGTime>
 			<_defaultComposite type="s">GUID e85c4da0-f3de-444b-80dd-de10d27ffbc8</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -307,7 +307,7 @@
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
-			<_name type="a">DCA Analisis de ventas</_name>
+			<_name type="a">DCA Seguridad</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
@@ -322,8 +322,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::15:30:0</_modifiedTime>
-			<_lastModifiedTime type="a">3.1.2021::15:30:0</_lastModifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:0:25</_modifiedTime>
+			<_lastModifiedTime type="a">3.2.2021::1:0:25</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -952,7 +952,7 @@
 			<m_pParent type="s">GUID 84584926-b74b-4908-b87b-41c594a9a2b2</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">CO_Analisis</m_str>
+					<m_str type="a">CO_Seguridad</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1075,7 +1075,7 @@
 					<_hfilename type="a">.\Modelo_ANALISIS.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_ANALISIS</_hsubsystem>
 					<_hclass type="a">CI_Login</_hclass>
-					<_hname type="a">itsCO_Analisis</_hname>
+					<_hname type="a">itsCO_Seguridad</_hname>
 					<_hid type="a">GUID 6830da39-7a6f-4b48-84ba-895bc6ba1c14</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -1303,7 +1303,7 @@
 					<_hfilename type="a">.\Modelo_ANALISIS.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_ANALISIS</_hsubsystem>
 					<_hclass type="a">CE_Usuario</_hclass>
-					<_hname type="a">itsCO_Analisis</_hname>
+					<_hname type="a">itsCO_Seguridad</_hname>
 					<_hid type="a">GUID 5af152b5-f95c-440d-ba49-7578ef7cfac7</_hid>
 				</IAssociationEndHandle>
 			</m_pInverseModelObject>
@@ -1573,10 +1573,10 @@
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
-			<_name type="a">DSecA Seguridad</_name>
+			<_name type="a">DSecA Ingreso al sistema</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::1:48:20</_modifiedTime>
-			<_lastModifiedTime type="a">3.2.2021::1:48:20</_lastModifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:8:33</_modifiedTime>
+			<_lastModifiedTime type="a">3.2.2021::1:8:33</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2710,14 +2710,14 @@
 		<IClass type="e">
 			<_id type="a">GUID 4bfe8603-6946-400a-af13-597845c3bc9a</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">CO_Analisis</_name>
+			<_name type="a">CO_Seguridad</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Control</_hname>
 							<_hid type="a">GUID 83c41daa-5f8e-446a-a638-1dc09ef00861</_hid>
@@ -2725,16 +2725,16 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.2.2021::3:30:33</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::1:0:25</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID f4771bc7-1479-48c7-bc9d-5503e59b6593</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.2.2021::3:30:33</_modifiedTime>
-			<weakCGTime type="a">3.2.2021::3:30:33</weakCGTime>
-			<strongCGTime type="a">3.2.2021::3:30:21</strongCGTime>
+			<_modifiedTime type="a">3.2.2021::1:0:25</_modifiedTime>
+			<weakCGTime type="a">3.2.2021::1:0:25</weakCGTime>
+			<strongCGTime type="a">3.2.2021::1:0:25</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2749,8 +2749,8 @@
 			<_id type="a">GUID bda26b95-1cd2-4ddf-9253-9f7d7a3bc270</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsCI_Login</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::3:30:30</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:30:30</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.2.2021::1:0:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:0:25</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -2767,7 +2767,7 @@
 					<_hfilename type="a">.\Modelo_ANALISIS.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_ANALISIS</_hsubsystem>
 					<_hclass type="a">CI_Login</_hclass>
-					<_hname type="a">itsCO_Analisis</_hname>
+					<_hname type="a">itsCO_Seguridad</_hname>
 					<_hid type="a">GUID 6830da39-7a6f-4b48-84ba-895bc6ba1c14</_hid>
 				</IHandle>
 			</_inverse>
@@ -2778,8 +2778,8 @@
 			<_id type="a">GUID 7e6d587b-b20f-48f8-b4c3-e72738e0fe3f</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsCE_Usuario</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::3:30:33</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:30:33</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.2.2021::1:0:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:0:25</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -2796,7 +2796,7 @@
 					<_hfilename type="a">.\Modelo_ANALISIS.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_ANALISIS</_hsubsystem>
 					<_hclass type="a">CE_Usuario</_hclass>
-					<_hname type="a">itsCO_Analisis</_hname>
+					<_hname type="a">itsCO_Seguridad</_hname>
 					<_hid type="a">GUID 5af152b5-f95c-440d-ba49-7578ef7cfac7</_hid>
 				</IHandle>
 			</_inverse>

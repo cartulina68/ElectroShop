@@ -17,7 +17,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">AnalysisModel</_hname>
 							<_hid type="a">GUID 7dc8503b-290a-43d7-a3ac-09c8b832eb06</_hid>
@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.1.2021::15:30:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::1:0:25</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -33,9 +33,9 @@
 					<_hid type="a">GUID 8d49f8a3-ae3b-48ed-ad40-aac2e4f665ef</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::15:30:0</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:0:25</_modifiedTime>
 			<_lastID type="a">30</_lastID>
-			<weakCGTime type="a">3.1.2021::22:2:35</weakCGTime>
+			<weakCGTime type="a">3.2.2021::1:0:25</weakCGTime>
 			<strongCGTime type="a">3.1.2021::22:2:35</strongCGTime>
 			<_defaultComposite type="s">GUID d04b09ed-9db2-4bde-9827-a32ae28a0af4</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -11295,7 +11295,7 @@
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 			<frameset type="a">&lt;frameset rows=33%25,33%25,33%25&gt;
-&lt;frame name=StereotypeBitmap,Z:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
+&lt;frame name=StereotypeBitmap,Y:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
 			<Attrs type="c">
@@ -11459,8 +11459,8 @@
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=33%25,53%25,14%25&gt;
-&lt;frame name=StereotypeBitmap,Z:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
+			<frameset type="a">&lt;frameset rows=33%25,33%25,33%25&gt;
+&lt;frame name=StereotypeBitmap,Y:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
 			<Attrs type="c">
@@ -11629,8 +11629,8 @@
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=33%25,55%25,12%25&gt;
-&lt;frame name=StereotypeBitmap,Z:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
+			<frameset type="a">&lt;frameset rows=33%25,33%25,33%25&gt;
+&lt;frame name=StereotypeBitmap,Y:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
 			<Attrs type="c">
@@ -11798,8 +11798,8 @@
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=33%25,55%25,12%25&gt;
-&lt;frame name=StereotypeBitmap,Z:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
+			<frameset type="a">&lt;frameset rows=33%25,33%25,33%25&gt;
+&lt;frame name=StereotypeBitmap,Y:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
 			<Attrs type="c">
@@ -11965,8 +11965,8 @@
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=33%25,59%25,8%25&gt;
-&lt;frame name=StereotypeBitmap,Z:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
+			<frameset type="a">&lt;frameset rows=33%25,33%25,33%25&gt;
+&lt;frame name=StereotypeBitmap,Y:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
 			<Attrs type="c">
@@ -12138,8 +12138,8 @@
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=33%25,49%25,18%25&gt;
-&lt;frame name=StereotypeBitmap,Z:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
+			<frameset type="a">&lt;frameset rows=33%25,33%25,33%25&gt;
+&lt;frame name=StereotypeBitmap,Y:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
 			<Attrs type="c">
@@ -12310,8 +12310,8 @@
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=33%25,49%25,18%25&gt;
-&lt;frame name=StereotypeBitmap,Z:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
+			<frameset type="a">&lt;frameset rows=33%25,33%25,33%25&gt;
+&lt;frame name=StereotypeBitmap,Y:\profiles\AnalysisProfile\images_analysis\entity.jpg&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
 			<Attrs type="c">
@@ -13335,7 +13335,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -13802,7 +13802,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -13810,15 +13810,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.2.2021::3:33:36</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::1:0:25</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 30896482-44f6-485b-8ff4-ec78fedea049</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.2.2021::3:33:36</_modifiedTime>
-			<weakCGTime type="a">3.2.2021::3:33:36</weakCGTime>
+			<_modifiedTime type="a">3.2.2021::1:0:25</_modifiedTime>
+			<weakCGTime type="a">3.2.2021::3:21:44</weakCGTime>
 			<strongCGTime type="a">3.1.2021::22:2:35</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -13924,16 +13924,16 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 6830da39-7a6f-4b48-84ba-895bc6ba1c14</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsCO_Analisis</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::3:30:30</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:30:30</_modifiedTime>
+			<_name type="a">itsCO_Seguridad</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:0:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:0:25</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
 					<_hfilename type="a">.\SEGURIDAD.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_ANALISIS::SEGURIDAD</_hsubsystem>
-					<_hname type="a">CO_Analisis</_hname>
+					<_hname type="a">CO_Seguridad</_hname>
 					<_hid type="a">GUID 4bfe8603-6946-400a-af13-597845c3bc9a</_hid>
 				</IClassifierHandle>
 			</_otherClass>
@@ -13942,7 +13942,7 @@
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\SEGURIDAD.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_ANALISIS::SEGURIDAD</_hsubsystem>
-					<_hclass type="a">CO_Analisis</_hclass>
+					<_hclass type="a">CO_Seguridad</_hclass>
 					<_hname type="a">itsCI_Login</_hname>
 					<_hid type="a">GUID bda26b95-1cd2-4ddf-9253-9f7d7a3bc270</_hid>
 				</IHandle>
@@ -13960,7 +13960,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -14079,7 +14079,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -14258,7 +14258,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -14377,7 +14377,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -14556,7 +14556,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -14564,14 +14564,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.2.2021::3:32:2</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::0:50:4</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 307469b1-bc0a-4fb0-a484-5b2953fb807d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.2.2021::3:32:2</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::0:50:4</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<weakCGTime type="a">3.2.2021::3:32:2</weakCGTime>
 			<strongCGTime type="a">3.1.2021::22:25:25</strongCGTime>
@@ -14586,6 +14586,8 @@
 				<value>GUID 36c7b5ac-6f74-452a-80a1-940ad5a6d9fd</value>
 				<value>GUID 9c852571-3df3-42ee-85e1-92e389c05a3c</value>
 				<value>GUID d024d085-375a-44bf-8564-1b15611f370c</value>
+				<value>GUID 5a70140a-7c46-4aa6-b663-1a11b71306a0</value>
+				<value>GUID f27543bf-c820-4df6-95ee-c8fb382bc3ba</value>
 			</AggregatesList>
 		</IClass>
 		<IAttribute type="e">
@@ -14711,6 +14713,64 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 5a70140a-7c46-4aa6-b663-1a11b71306a0</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCO_Orden</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::23:47:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:47:46</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\ORDEN.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_ANALISIS::ORDEN</_hsubsystem>
+					<_hname type="a">CO_Orden</_hname>
+					<_hid type="a">GUID 3f4db7c4-c930-4f08-8deb-0d2f3a07c26b</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\ORDEN.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_ANALISIS::ORDEN</_hsubsystem>
+					<_hclass type="a">CO_Orden</_hclass>
+					<_hname type="a">itsCE_Categoria</_hname>
+					<_hid type="a">GUID 134d9cc5-cfdf-4392-8424-7708a83b6e8c</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f27543bf-c820-4df6-95ee-c8fb382bc3ba</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCO_Producto</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::0:50:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::0:50:4</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\PRODUCTO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_ANALISIS::PRODUCTO</_hsubsystem>
+					<_hname type="a">CO_Producto</_hname>
+					<_hid type="a">GUID e2d09d8a-7c30-456d-aee7-119fb3036980</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\PRODUCTO.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_ANALISIS::PRODUCTO</_hsubsystem>
+					<_hclass type="a">CO_Producto</_hclass>
+					<_hname type="a">itsCE_Categoria</_hname>
+					<_hid type="a">GUID ca723c8b-cc66-437f-9c83-3bd624ad8e50</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IClass type="e">
 			<_id type="a">GUID 171b8e63-2e5f-481b-b16f-37ebcf92e92d</_id>
 			<_myState type="a">8192</_myState>
@@ -14721,7 +14781,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -14996,7 +15056,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -15221,7 +15281,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -15388,7 +15448,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -15396,16 +15456,16 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.2.2021::3:30:33</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::1:0:25</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 307469b1-bc0a-4fb0-a484-5b2953fb807d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::17:25:14</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:0:25</_modifiedTime>
 			<_lastID type="a">10</_lastID>
-			<weakCGTime type="a">3.2.2021::3:30:33</weakCGTime>
+			<weakCGTime type="a">3.2.2021::3:21:47</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:0:4</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -15726,16 +15786,16 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 5af152b5-f95c-440d-ba49-7578ef7cfac7</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsCO_Analisis</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::3:30:33</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:30:33</_modifiedTime>
+			<_name type="a">itsCO_Seguridad</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:0:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:0:25</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
 					<_hfilename type="a">.\SEGURIDAD.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_ANALISIS::SEGURIDAD</_hsubsystem>
-					<_hname type="a">CO_Analisis</_hname>
+					<_hname type="a">CO_Seguridad</_hname>
 					<_hid type="a">GUID 4bfe8603-6946-400a-af13-597845c3bc9a</_hid>
 				</IClassifierHandle>
 			</_otherClass>
@@ -15744,7 +15804,7 @@
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\SEGURIDAD.sbsx</_hfilename>
 					<_hsubsystem type="a">Modelo_ANALISIS::SEGURIDAD</_hsubsystem>
-					<_hclass type="a">CO_Analisis</_hclass>
+					<_hclass type="a">CO_Seguridad</_hclass>
 					<_hname type="a">itsCE_Usuario</_hname>
 					<_hid type="a">GUID 7e6d587b-b20f-48f8-b4c3-e72738e0fe3f</_hid>
 				</IHandle>
@@ -15791,7 +15851,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -15799,14 +15859,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.2.2021::3:32:7</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::0:59:7</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 307469b1-bc0a-4fb0-a484-5b2953fb807d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::17:25:4</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::0:59:7</_modifiedTime>
 			<_lastID type="a">9</_lastID>
 			<weakCGTime type="a">3.2.2021::3:32:7</weakCGTime>
 			<strongCGTime type="a">3.1.2021::22:59:51</strongCGTime>
@@ -15832,6 +15892,7 @@
 				<value>GUID 643bafd7-b8c6-4506-912c-01cf22e353fd</value>
 				<value>GUID 0cf0fd4f-1160-4be4-a03f-928e59f78c9b</value>
 				<value>GUID 59a343fb-5b7b-42ff-b048-535d7e03008b</value>
+				<value>GUID 26f6ec3a-f550-4e06-bd90-7f300d6ada3f</value>
 			</AggregatesList>
 		</IClass>
 		<IAttribute type="e">
@@ -16208,6 +16269,35 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 26f6ec3a-f550-4e06-bd90-7f300d6ada3f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCO_Resena</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::0:59:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::0:59:7</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RESENA.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_ANALISIS::RESENA</_hsubsystem>
+					<_hname type="a">CO_Resena</_hname>
+					<_hid type="a">GUID cc913588-66a5-4693-b6c4-9a37a2ba7fd6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RESENA.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_ANALISIS::RESENA</_hsubsystem>
+					<_hclass type="a">CO_Resena</_hclass>
+					<_hname type="a">itsCE_Producto</_hname>
+					<_hid type="a">GUID 94514260-6e80-4470-acf7-aac606430c2d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IClass type="e">
 			<_id type="a">GUID f5b1654b-4677-48d2-b562-72212ce422b0</_id>
 			<_myState type="a">8192</_myState>
@@ -16218,7 +16308,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">Z:\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
